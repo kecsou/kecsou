@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an opensource project [Abcdesktop.io](https://github.com/abcdesktopio) 
+I am a Software engineer with five years of experience, I made all my studies in apprenticeship to obtain experience as quickly as possible.
+
+My first experience was on in a company where I was working with microsoft technologies such as C#/ASP.NET and MSSQL, I worked with these technologies during two years.
+
+Now I am working on a openseouce project named [Abcdesktop.io](https://github.com/abcdesktopio) where I use a buch of opensource technologies such as Nodejs, Python, NoVNC, Kubernetes and many more.
 
 <!--
 **kecsou/kecsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
